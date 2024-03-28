@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/aws-ia/terraform-aws-eks-blueprints)
 
-Welcome to Amazon EKS Blueprints for Terraform!
+Welcome to Amazon EKS Blueprints for Terrafor  m!
 
 This repository contains a collection of Terraform modules that aim to make it easier and faster for customers to adopt [Amazon EKS](https://aws.amazon.com/eks/).
 
